@@ -1,1 +1,0 @@
-# Evolu-o-de-Aprendizagem
