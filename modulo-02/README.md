@@ -6,7 +6,6 @@
 * Funções
 * Tipos de dados
 * Tipos Utilitários
-* Tipos Utilitários
 * Métodos de Arrays
 
 ## Carreira:
@@ -17,7 +16,7 @@
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Já tenho um conhecimento básico sobre os tipos de dados
+- Já tenho um conhecimento básico sobre os tipos de dados;
 - Conheço alguns métodos de Arrays;
 - Já aprendi bastante sobre o linkedin e como usá-lo ao meu favor;
 - Já sei o que esperar da profissão de ser um programador;
@@ -40,6 +39,31 @@
 
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+
+- Aprendi o conceito de funções;
+    * Como declarar funções
+    * Qual a sua utilidade
+    * Os parâmetros das funções
+- Aprendi sobre tipos de dados;
+    * Os tipos literais
+    * Tuplas
+    * Como verificar se existe uma propriedade em um objeto
+- Aprendi sobre os Tipos utilitários;
+    * A importância dos tipos utilitários
+    * Onde consultar os tipos utilitários na internet
+- Aprendi os metódos Strings;
+    * transformar uma string em letras maiúsculos com o toUpperCase 
+    * transformar uma string em letras minúsculos com o toLowerCase 
+- Ampleei o conhecimento sobre Array com os metódos I, II e II;
+    * O uso de Join, Push, Map, Filter, e etc.
+    * Ordenação númerica e de strings. Crescente e Decrescente
+    * O uso de reduce
+    
+- Nas aulas de carreira, aprendi sobre:
+    * Metodologia ágeis
+    * Planejamento, Construção, Entrega de projeto e os riscos
+    * Documentação e como usar o google / IA ao nosso favor
+    * Aprendi sobre diversidade e inclusão nas jornadas.
 
 ## Observações
 
